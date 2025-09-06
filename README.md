@@ -5,7 +5,6 @@
 💡 Aspiring <b>Quantitative Analyst | Algorithmic Trader | Data Analyst</b> <br>
 🚀 Passionate about <b>Quant Finance, Data Science, and FinTech Innovation</b>
 </p>
----
 
 ## 🔹 About Me  
 
