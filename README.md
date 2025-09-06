@@ -39,11 +39,8 @@
 - Completed project-based internship focusing on data analysis, visualization, and predictive modeling  
 - Built end-to-end projects applying **Python, Pandas, Seaborn, Scikit-learn**  
 
-**Private Tutor (Maths, Economics, Computer Science) (Ongoing)**  
-- Taught students at high school and undergrad level  
-- Strengthened skills in **communication, mentoring, and explaining analytical concepts**  
 
----
+
 
 ## 🔹 Certifications  
 
