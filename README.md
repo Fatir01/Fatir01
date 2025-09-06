@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Fatir Ali  
+<h1 align="center">👋 Hi, I'm Fatir Ali</h1>
 
-📊 **FinTech Undergraduate (3rd Year)**  
-💡 Aspiring **Quantitative Analyst | Algorithmic Trader | Data Analyst**  
-🚀 Passionate about **Quant Finance, Data Science, and Financial Technology Innovation**  
-
+<p align="center">
+📊 <b>FinTech Undergraduate (3rd Year)</b> <br>
+💡 Aspiring <b>Quantitative Analyst | Algorithmic Trader | Data Analyst</b> <br>
+🚀 Passionate about <b>Quant Finance, Data Science, and FinTech Innovation</b>
+</p>
 ---
 
 ## 🔹 About Me  
