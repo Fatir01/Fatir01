@@ -29,7 +29,6 @@
 
 - 🧮 **Inventory Management System (Python, DSA)** – Skip list–based inventory tracker with PyQt GUI  
 - 🔑 **Password Generator (Python)** – Customizable secure password generator with multiple complexity levels  
-- 📚 **Shortbook Web App (React.js, Node.js, MySQL)** – Platform for reading/listening to shortbooks with personal library & dashboard  
 - 🦠 **COVID-19 Data Analysis (R)** – Statistical analysis of mortality by age & gender with t-tests and ggplot2 visualizations  
 
 ---
@@ -55,9 +54,9 @@
 
 ## 📫 Connect With Me  
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 📧 Email: **yourname@email.com**  
-- 🌐 Portfolio Website *(if you have one)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fatir-ali/)  
+- 📧 Email: **fatirrizviali@email.com** 
+   
 
 ---
 
